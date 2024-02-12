@@ -11,4 +11,8 @@ Debug.Log("Jonatan Ali Mej'ia Cortes");
 
 
 Debug.Log("Armando Esteban Quito");
+if(start){
+
+Debug.Log(Jose Jose);
+}
 }
