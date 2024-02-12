@@ -6,5 +6,9 @@ void setup(){
 void udate(){
 Debug.Log("ali");+
 Debug.Los("mej'a cort'es"}
+=======
 Debug.Log("Jonatan Ali Mej'ia Cortes");
+
+
+Debug.Log("Armando Esteban Quito");
 }
